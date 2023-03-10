@@ -13,5 +13,13 @@
     "host": "backendDb",
     "dialect": "postgres",
     "port": 5432
+  },
+  "test": {
+    "username": "postgres",
+    "password": "postgres",
+    "database": "data",
+    "host": "backendDb",
+    "dialect": "postgres",
+    "port": 5432
   }
 }
